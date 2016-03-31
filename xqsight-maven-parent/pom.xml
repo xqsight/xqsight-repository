@@ -202,6 +202,12 @@
 			</dependency>
 			<!-- nysql connection end -->
 			<!-- apache start -->
+			
+			<dependency>
+				<groupId>com.github.axet</groupId>
+				<artifactId>kaptcha</artifactId>
+				<version>0.0.9</version>
+			</dependency>
 			<dependency>
 				<groupId>org.apache.kafka</groupId>
 				<artifactId>kafka_2.9.2</artifactId>
